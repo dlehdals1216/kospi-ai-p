@@ -3,7 +3,7 @@
 from flask import Flask, render_template, request
 
 import datetime
-import tensorflow as tf
+
 import numpy as np
 import pickle
 import numpy as np
